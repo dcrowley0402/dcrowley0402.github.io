@@ -26,7 +26,7 @@ This is where all the links to my personal work and socials are.
 - [LinkedIn](https://www.linkedin.com/in/derek-crowley-872565243/)
   - Above is the home page of my LinkedIn.
 - [Instagram](https://www.instagram.com/derek_cro/)
-- GitHub: *Link to main page*
+- [GitHub](https://github.com/dcrowley0402)
 - Resume: *Downloadable Link*
 Senior Design Project
 This is where I will have a description of what the project is and a basic overview.
