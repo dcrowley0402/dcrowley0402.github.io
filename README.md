@@ -13,6 +13,14 @@ I am an upcoming Spring 2024 graduate in the College of Engineering at San Diego
 ## My Goals
 Coming out of college, I want to work for a company that is able to provide me with a dynamic environment that involves a fast pace and social network. 
 ## Experience
+This section will cover all of my experience related to engineering.
+### Senior Design Project
+This is where I will have a description of what the project is and a basic overview.
+I helped out with the bill of materials, the plate de-stacker design, file organization, collaboration with teammates in meetings (talk about potential designs, prototypes, keeping on schedule)
+#### Prjoect Overview
+#### Personal Contribution
+#### Related Work
+Show images, drawings, 
 ## Links
 This is where all the links to my personal work and socials are.
 - [LinkedIn](https://www.linkedin.com/in/derek-crowley-872565243/)
@@ -20,5 +28,5 @@ This is where all the links to my personal work and socials are.
 - [Instagram](https://www.instagram.com/derek_cro/)
 - GitHub: *Link to main page*
 - Resume: *Downloadable Link*
-## Senior Design Project
+Senior Design Project
 This is where I will have a description of what the project is and a basic overview.
